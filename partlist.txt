@@ -1,4 +1,0 @@
-2 1kohm potentiometers
-2 DC 5V relays
-Voltage divider circuit(2 10kohm resistors)
-
